@@ -1,0 +1,16 @@
+Total number of binders (proportional to total binder concentration)
+100 
+Total number of binding sites (proportional to receptor concetration)
+2000
+Tmax - simulation time (in a.u.)
+10
+Time stride for dumping time averages
+0.5
+Koff - unperturbed unbinding rate constant   (1/time)
+10.0
+Kon - unperturbed unbinding constant   (1/(time * free binders))
+0.2
+crowding energy penalty (kcal/mol)
+2.0
+range of the crowding penalty (ex: if range=2 and site j is occupied binding to sites j-2,j-1,j+1,j+2 will be penalized)
+2
